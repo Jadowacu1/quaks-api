@@ -27,19 +27,6 @@ This is a basic REST API built with **Node.js**, **Express**, and **UUID**. It w
 
 ## 📁 Project Structure
 
-Sure! Here's your cleaned and fully formatted version **entirely in proper Markdown** syntax — no extra tooltips, YAML, or formatting labels:
-
----
-
-```markdown
-# 🧪 Simple REST API – Backend Internship Task
-
-This is a basic REST API built with **Node.js**, **Express**, and **UUID**. It was developed as part of the Quarks Group backend internship assessment.
-
----
-
-## 📁 Project Structure
-
 ```
 
 quaks-api/
@@ -152,29 +139,10 @@ curl http://localhost:3000/users/<user-id>
 
 ---
 
-## ❗ Notes
-
-* This app stores data in memory — restarting the server clears all users.
-* Use **Node 14+**, preferably **Node 18+**.
-* Ensure `"type": "module"` is set in your `package.json` for ES Module support.
-
----
-
 ## 👨‍💻 Author
 
-Developed by **\[Your Name]**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+Developed by **jadowacu1**
+GitHub: [https://github.com/Jadowacu1](https://github.com/Jadowacu1)
 
 ---
 
-🔧 Replace:
-
-* `your-username` with your actual GitHub username
-* `[Your Name]` with your real name
-
-```
-
----
-
-Let me know if you want me to generate a `README.md` file for download or walk you through how to publish this to GitHub.
-```
