@@ -1,4 +1,4 @@
-# 🧪 Simple REST API – Backend Internship Task
+#  Simple REST API – Backend Internship Task
 
 This is a basic REST API built with **Node.js**, **Express**, and **UUID**. It was developed as part of the Quarks Group backend internship assessment.
 
